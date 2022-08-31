@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell basic
+Shell basic repo
